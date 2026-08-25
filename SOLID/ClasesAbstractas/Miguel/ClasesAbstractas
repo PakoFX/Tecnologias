@@ -1,0 +1,7 @@
+La interfaz
+Funciona como un contrato estricto de capacidades. une a objetos que NO son de la misma familia y no comparten una plantilla base.
+Solo define QUE se debe hacer pero jamas explica COMO hacerlo.
+
+Clase abstracta
+"MOB"
+Define que todo tiene vida y reciben daño, pero obliga a sus hijos a definir como hacer su sonido caracteristico.
