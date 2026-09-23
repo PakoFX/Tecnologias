@@ -1,4 +1,4 @@
-package Miguel;
+
 
 public interface ActivablePorRedstone{
     void activar();

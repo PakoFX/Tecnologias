@@ -1,4 +1,4 @@
-package Miguel;
+
 
 public abstract class MobHostil {
     String nombre;

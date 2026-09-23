@@ -1,4 +1,4 @@
-package Miguel;
+
 
 public class Puerta implements ActivablePorRedstone{
     @Override

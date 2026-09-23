@@ -1,4 +1,4 @@
-package Miguel;
+
 
 public class Piston implements ActivablePorRedstone {
     @Override

@@ -1,4 +1,4 @@
-package Miguel;
+
 
 public class Esqueleto extends MobHostil {
 

@@ -1,0 +1,6 @@
+La clase derivada obtiene implicitamente todos
+Una clase puede herendar de otra clsae que asu vez hereda de una tercera clase.
+La herencia simple ocurre cuando clase dada hereda los atributos
+la herencia multiple ocurre cuando una clase deriva de dos clases co
+
+La herencia virtual, en el problema del diamante, la clase A y la clase B pasan dos copias identicas de la clase D en la clase C.

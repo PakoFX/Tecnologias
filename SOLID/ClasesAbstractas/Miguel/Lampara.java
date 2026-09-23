@@ -1,4 +1,4 @@
-package Miguel;
+
 
 public class Lampara implements ActivablePorRedstone{
     @Override

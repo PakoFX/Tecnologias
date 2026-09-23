@@ -1,0 +1,6 @@
+¿Que es el polimorfismo?
+El polimorfismo es uno de los cuatro pilates fundamentales
+Eliminacion de condicionales fragiles
+El polimorfismo se refiere a la capacidad que tienen los objetos de diferentes clases de responder a un mismo mensaje, metodo o llamada 
+El principio Open/close de SOLID establece que las entidades de software deben estar abiertas
+Algunos desarrlladores llamaban polimorfismo a tener ds funciones con el mismo nombre, mientras que otros lo 
